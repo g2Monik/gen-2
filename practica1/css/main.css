@@ -1,0 +1,116 @@
+/* Comentario en css*/
+
+body{
+    color:black;
+    
+}
+
+header{
+    border: 1px solid blue;
+    height: 10vh;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+li{
+    
+    display: inline-block;
+    width: 32%;
+    text-align: center; 
+}
+
+span{
+    position: relative;
+    display: inline-block;
+    border: 1px solid red;
+    width: 48vw;
+    height: 70vh;
+    background-color:#F6CEF5;
+    text-align: center;
+}
+
+footer{
+    border: 1px solid violet;
+    position: absolute;
+    top: 90vh;
+    height: 10vh;
+    width: 99vw;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+span.uno {
+background-color:#CEF6F5;
+border: 1px solid green;
+}
+
+img.dos{
+    position: relative;
+    width: 25vw;
+    height: 37vh;
+   
+}
+
+video.tres{
+    width: 25vw;
+    height: 34vh;
+}
+
+/*Formulario*/
+
+div.unos{
+    font-size: medium;
+    font-family: 'Montserrat', sans-serif;
+    height: 85vh;
+    border: none;
+    background-color:#333131;
+    width: 30vw;
+    height: 50vh;
+    border-radius: 12px;
+    top: 2vh;
+}
+
+#top, br{
+    position: relative;
+    color: white;
+    text-align: center;
+    border-bottom:2px solid white;
+    top: 2vh;
+}
+
+input.borde{
+    position: relative;
+    background-color: #DFDADE;
+    border-radius: 15px;
+    width: 26vw;
+    left:1vw;
+    height: 4vh;
+}
+
+#button{
+    position: relative;
+    background-color: #92EC5F;
+    border: none;
+    border-radius: 10px;
+    left:16vw;
+    width: 10vw;
+    height: 4vh;
+    color: azure;
+}
+
+#txt{
+    position: relative;
+    color: #DFDADE;
+    text-align: center;
+}
+
+#button1{
+    position: relative;
+    left:2vw;
+}
+
+i{
+position: relative;
+left:4vw;
+z-index: 100;
+}

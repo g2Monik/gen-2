@@ -1,0 +1,25 @@
+/* Comentario en css*/
+
+body{
+    background-color:rgb(255, 188, 216);
+}
+
+h2, .uno{
+    text-align: center;
+}
+
+table{
+    border:  4px dotted white;
+    text-align: center;
+}
+
+.form-group{
+    position: relative;
+    width: 35vw;
+    left: 10vw;
+}
+
+.btn-default{
+position: relative;
+left: 40vw;
+}
